@@ -77,3 +77,5 @@ console.log(getRandomString(10, 20));
 - Learned to refactor JS code from previous project 
 - Use git via VSCode to create a .gitignore file
 - Gain experience creating JS code. 
+
+[SOurcecode](https://ruichen11.github.io/Ruichen11.CIT-Minor/)

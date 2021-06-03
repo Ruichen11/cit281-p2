@@ -1,4 +1,4 @@
-# cit281-p2
+# CIT281 Project-2
 
 Purpose of this project:
 - To gain experience writing and executing non-web server Node.js JS code
